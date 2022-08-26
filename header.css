@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: #128C7E;
+    height: 90px;
+    position: fixed;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    min-width: 100%;
+    top: 0;
+    
+}
+.whatsapp{
+    max-width: 1050px;
+    padding-left: 32px;
+    padding-right: 32px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    padding-left: 32px;
+    padding-right: 32px;
+    
+}
+.h5{
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+}
+.nibu{
+    cursor: pointer;
+}
+
+

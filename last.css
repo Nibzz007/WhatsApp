@@ -1,0 +1,40 @@
+.last{
+    display: flex;
+    justify-content: center;
+    padding-top: 4px;
+    padding-right: 24px;
+    padding-bottom: 4px;
+    padding-left: 24px;
+    background-color: #1c1e21;
+    width: 100%;
+    height: 60px;
+}
+.in-last{
+    max-width: 1050px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.la{
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    display: block;
+    margin: 0;
+}
+.st2{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin: 0;
+    display: block;
+    cursor: pointer;
+}

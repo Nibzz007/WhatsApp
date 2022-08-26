@@ -1,0 +1,161 @@
+.business{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 870px;
+}
+.left{
+    background-color: #D8E8EA;
+    margin-right: 16px;
+    float: left;
+    padding-bottom: 0;
+    width: 658.5px;
+    height: 870px;
+}
+.right{
+    background-color: #E7F0E4;
+    margin-left: 16px;
+    width: 658.5px;
+    height: 870px;
+    float: right;
+    padding-bottom: 0;
+}
+.top{
+    height: 392px;
+    width: 100%;
+    margin-bottom: 68px;
+    margin-top: -10px;
+}
+.bottom{
+    height: 392px;
+    width: 100%;
+}
+.photo{
+    height: 389px;
+    width:355px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.mobile-phone{
+    width: 100%;
+    height: 100%;
+}
+.one{
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 700;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 0;
+    padding-top: 35px;
+}
+.two{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    color: #1c1e21;
+    display: block;
+}
+.three{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    color: #1c1e21;
+    display: block;
+}
+.four{
+    height: 350px;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 65px;
+}
+.five{
+    width: 100%;
+    height: 285px;
+}
+.six{
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 350px;
+    height: 350px;
+}
+.seven{
+    width: 100%;
+    height: 100%;
+}
+.eight{
+    color: #5E5E5E;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: .15em;
+    margin-bottom: 2px;
+    line-height: 34px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.nine{
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: bolder;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #1c1e21;
+    padding-bottom: 16px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.ten{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.eleven{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #1c1e21;
+}
+.features{
+    width: 100%;
+    height: 55px;
+    margin-top: 55px;
+    margin-bottom: 85px;
+}
+.button{
+    color: #128c7e;
+    background: #fff;
+    border-radius: 40px;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 120%;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    border: 2px solid #77d7c8;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-left: 560px;
+}

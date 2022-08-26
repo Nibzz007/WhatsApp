@@ -1,0 +1,79 @@
+.main{
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 1.34;
+    
+}
+.fa-thin{
+    color: white;
+}
+.fa-globe{
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+}
+.simple{
+    margin-top:150px;
+    margin-left: 280px;
+    margin-right: 62px;
+    height: 575px;
+    width: 394px;
+}
+.phone{
+    width: 330px;
+    margin-right: 280px;
+    height: 575px;
+    margin-top:150px;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.si{
+    font-size: 33px;
+    line-height: 43px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1C1E21;
+    margin-top: 70px;
+}
+.si1{
+    font-size: 33px;
+    line-height: 43px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1C1E21;
+    margin-top: -25px;
+}
+.what{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1c1e21;
+    text-align: left;
+}
+.app{
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    line-height: 21.44px;
+    margin-bottom: 60px;
+
+}
+.h4{
+    color: #1CB39B;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 21.6px;
+}
+.h4:hover{
+    text-decoration: underline;
+}
